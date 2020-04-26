@@ -1,0 +1,11 @@
+{
+    "name": "Text capillatizer",
+    "version": "1.0.0",
+    "description": "Changes the capitalization of the text",
+    "author": "João Miranda",
+    "browser_action": {
+        "default_popup": "./public/view/index.html",
+        "default_icon": "./public/icon/icon.png"
+    },
+    "manifest_version": 2
+}
